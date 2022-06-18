@@ -49,7 +49,7 @@ PWM Working Principle - Pulse Width Modulation How It Works
 
 ### PROGRAM 
  
-```
+```C
 #include <AFMotor.h>
 
 AF_DCMotor motor(4);// number of motor connected with shield
